@@ -4,6 +4,7 @@ Curated list of online tech-related masters programs (accredited, non-profit uni
 
 Notes:
  * Tuition is an estimate *for the entire program*
+ * 'In-person option' is only checked if there is an in-person version for the *exact* same degree
 
 ## Computer Science
 
