@@ -10,6 +10,8 @@ Notes:
 | University | Title | Link | In-person option | Public | In-state tuition	| Out-of-state tuition |
 |---	|---	|---	|---	|---	|---	|---  |
 | Georgia Tech | MS Computer Science	| [#](https://www.gatech.edu/academics/degrees/masters/cybersecurity-ms-cybersecurity) | ✓ | ✓   | $11k | $11k | 
+| University of Illinois Urbana Champange | Master of Computer Science | [#](https://cs.illinois.edu/academics/graduate/professional-mcs-program/online-master-computer-science) ||✓|$21k|$21k|
+|   	|   	|   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|
 
