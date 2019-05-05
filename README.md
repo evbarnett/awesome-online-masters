@@ -1,6 +1,6 @@
 # awesome-online-masters
 
-Curated list of online tech-related masters programs (accredited, non-profit universities)
+Curated list of online tech-related masters programs (accredited, non-profit universities in the United States)
 
 Notes:
  * Tuition is an estimate *for the entire program*
@@ -9,7 +9,7 @@ Notes:
 
 | University | Title | Link | In-person option | Public | In-state tuition	| Out-of-state tuition |
 |---	|---	|---	|---	|---	|---	|---  |
-|   	|   	|   	|   	|   	|   	|   	| 
+| Georgia Tech | MS Computer Science	| [#](https://www.gatech.edu/academics/degrees/masters/cybersecurity-ms-cybersecurity) | ✓ | ✓   | $11k | $11k | 
 |   	|   	|   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|
 
@@ -17,7 +17,7 @@ Notes:
 
 | University | Title | Link | In-person option | Public | In-state tuition	| Out-of-state tuition |
 |---	|---	|---	|---	|---	|---	|---  |
-|   	|   	|   	|   	|   	|   	|   	| 
+| Georgia Tech | MS Cybersecurity	| [#](https://www.gatech.edu/academics/degrees/masters/cybersecurity-ms-cybersecurity) | ✓ | ✓   | $11k | $11k |
 |   	|   	|   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|
 
