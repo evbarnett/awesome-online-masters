@@ -18,7 +18,7 @@ Notes:
 | University | Title | Link | In-person option | Public | In-state tuition	| Out-of-state tuition |
 |---	|---	|---	|---	|---	|---	|---  |
 | Georgia Tech | MS Cybersecurity	| [#](https://www.gatech.edu/academics/degrees/masters/cybersecurity-ms-cybersecurity) | ✓ | ✓   | $11k | $11k |
-|   	|   	|   	|   	|   	|   	|   	|
+| Johns Hopkins | MS Cybersecurity | [#](https://ep.jhu.edu/programs-and-courses/programs/cybersecurity) | ✓ || $44k | $44k |
 |   	|   	|   	|   	|   	|   	|   	|
 
 ## Data Science
