@@ -27,7 +27,7 @@ Notes:
 |Boston University|MS Computer Information Systems|[#](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)|✓|   	|$34k|$34k|
 | Georgia Institute of Technology | MS Cybersecurity	| [#](https://www.gatech.edu/academics/degrees/masters/cybersecurity-ms-cybersecurity) | ✓ | ✓   | $11k | $11k |
 | Johns Hopkins University | MS Cybersecurity | [#](https://ep.jhu.edu/programs-and-courses/programs/cybersecurity) | ✓ || $44k | $44k |
-| University of North Dakota |MS Cybersecurity|[#](https://onlinedegrees.und.edu/masters-cyber-security/)| 	|✓ | $21k	| 55k |
+| University of North Dakota |MS Cybersecurity|[#](https://onlinedegrees.und.edu/masters-cyber-security/)| 	|✓ | $21k	| $55k |
 | Syracuse University |MS Cybersecurity|[#](https://engineeringonline.syr.edu/graduate-programs/cybersecurity/)|✓||$48k|$48k|
 
 ## Data Science / Data Analytics
