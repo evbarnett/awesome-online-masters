@@ -42,5 +42,5 @@ Notes:
 
 | University | Title | Link | In-person option | Public | In-state tuition	| Out-of-state tuition |
 |---	|---	|---	|---	|---	|---	|---  |
-|   	|   	|   	|   	|   	|   	|   	|
+| Georgetown University | Master of Professional Studies in Technology Management | [#](https://scsonline.georgetown.edu/programs/masters-technology-management)|   	|   	|  ?	|  ?	|
 |   	|   	|   	|   	|   	|   	|   	|
