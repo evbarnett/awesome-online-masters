@@ -29,6 +29,7 @@ Notes:
 | Johns Hopkins University | MS Cybersecurity | [#](https://ep.jhu.edu/programs-and-courses/programs/cybersecurity) | ✓ || $44k | $44k |
 | University of North Dakota |MS Cybersecurity|[#](https://onlinedegrees.und.edu/masters-cyber-security/)| 	|✓ | $21k	| $55k |
 | Syracuse University |MS Cybersecurity|[#](https://engineeringonline.syr.edu/graduate-programs/cybersecurity/)|✓||$48k|$48k|
+| Western Governors University | MS Cybersecurity and Information Assurance | [#](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html) | | | $15k | $15k |
 
 ## Data Science / Data Analytics
 
