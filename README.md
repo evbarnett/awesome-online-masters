@@ -38,6 +38,7 @@ Notes:
 |Boston University|MS Applied Data Analytics|[#](https://www.bu.edu/online/programs/graduate-programs/applied-data-analytics-masters-degree/)|||$28k|$28k| 
 | University of Denver | MS Data Science | [#](https://ritchieonline.du.edu/data-science/)| ✓	| | $50k|$50k |
 | UC Berkeley | Master of Information and Data Science | [#](https://datascience.berkeley.edu/)	|   	| ✓ | $60k | $60k |
+| Georgia Institute of Technology | MS Analytics | [#](https://pe.gatech.edu/degrees/analytics) | ✓ | ✓ | $10k | $10k|
 
 ## Technology Management
 
