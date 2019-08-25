@@ -31,6 +31,8 @@ Notes:
 | Syracuse University |MS Cybersecurity|[#](https://engineeringonline.syr.edu/graduate-programs/cybersecurity/)|✓||$48k|$48k|✓|✓|
 | Western Governors University | MS Cybersecurity and Information Assurance | [#](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html) | | | $15k | $15k |||
 | University of the Cumberlands | MS Information Security | [#](https://www.ucumberlands.edu/academics/graduate/programs/master-science-information-systems-security) | | | $10k | $10k|✓||
+| University of Arizona | MS Cybersecurity | [#](https://online.arizona.edu/programs/graduate/online-master-science-cybersecurity-ms) |  ✓  |✓ |$43k|$43k |✓ | |
+| Southern New Hampshire University | MS Cybersecurity | [#](https://www.snhu.edu/online-degrees/masters/ms-in-cyber-security) |    | |$22k|$22k | | |
 
 ## Data Science / Data Analytics
 
