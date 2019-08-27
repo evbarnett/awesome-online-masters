@@ -49,3 +49,4 @@ Notes:
 |---	|---	|---	|---	|---	|---	|---  |
 | Georgetown University | Master of Professional Studies in Technology Management | [#](https://scsonline.georgetown.edu/programs/masters-technology-management)|  ✓	|   	|  $41k	|  $41k	|
 | Denver University	| MS Information and Communications Technology, concentration in Technology Management 	| [#](https://universitycollege.du.edu/ict/degree/masters/technology-management-online/degreeid/406) |   	|  ✓	| $34k | $34k |
+| University of Illinois Urbana-Champaign | MS Information Management | [#](https://ischool.illinois.edu/degrees-programs/ms-information-management) |  ✓  | ✓  | $21k | $36k |
