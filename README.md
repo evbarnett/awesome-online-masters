@@ -18,7 +18,7 @@ Notes:
 | Stanford University | MS Computer Science | [#](https://online.stanford.edu/programs/computer-science-ms-degree) | ✓ || $57k | $57k |
 | University of Illinois Urbana-Champaign | Master of Computer Science | [#](https://cs.illinois.edu/academics/graduate/professional-mcs-program/online-master-computer-science) ||✓|$21k|$21k|
 | University of Southern California |MS Computer Science|[#](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)|✓||$58k|$58k|
-|   	|   	|   	|   	|   	|   	|   	|
+| Syracuse University |  MS Computer Science	| [#](https://engineeringonline.syr.edu/graduate-programs/computer-science/)	| ✓	| 	| $48k	| $48k	|
 
 ## Cybersecurity / Information Security
 
