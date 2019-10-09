@@ -19,7 +19,8 @@ Notes:
 | University of Illinois Urbana-Champaign | Master of Computer Science | [#](https://cs.illinois.edu/academics/graduate/professional-mcs-program/online-master-computer-science) ||✓|$21k|$21k|
 | University of Southern California |MS Computer Science|[#](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)|✓||$58k|$58k|
 | Syracuse University |  MS Computer Science	| [#](https://engineeringonline.syr.edu/graduate-programs/computer-science/)	| ✓	| 	| $48k	| $48k	|
-| University of Idaho | MS Computer Science | [#](https://eo.uidaho.edu/cs-degree) | ✓ | ✓ | 7k | 20k |
+| University of Idaho | MS Computer Science | [#](https://eo.uidaho.edu/cs-degree) | ✓ | ✓ | $7k | $21k |
+| Illinois Institute of Technology | MS Computer Science | [#](https://science.iit.edu/programs/graduate/master-science-computer-science-mscs) | ✓ | ✓ | $56k | $56k |
 
 ## Cybersecurity / Information Security
 
