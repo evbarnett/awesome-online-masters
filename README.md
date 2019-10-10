@@ -21,6 +21,7 @@ Notes:
 | Syracuse University |  MS Computer Science	| [#](https://engineeringonline.syr.edu/graduate-programs/computer-science/)	| ✓	| 	| $48k	| $48k	|
 | University of Idaho | MS Computer Science | [#](https://eo.uidaho.edu/cs-degree) | ✓ | ✓ | $7k | $21k |
 | Illinois Institute of Technology | MS Computer Science | [#](https://science.iit.edu/programs/graduate/master-science-computer-science-mscs) | ✓ | ✓ | $56k | $56k |
+| Northern Carolina State University | Master of Computer Science | [#](https://www.csc.ncsu.edu/academics/graduate/degrees/mcsdl.php) | ✓ | ✓ | $14k | $41k |
 
 ## Cybersecurity / Information Security
 
